@@ -1,21 +1,10 @@
 # Rakshith Rajkumar
 
-Hi there! I'm a Full-Stack Blockchain Developer with expertise in DeFi, smart contracts, and web development. Currently pursuing a Master's in Information Systems at Northeastern University. Passionate about building secure, decentralized applications.
+Hi there! I'm a Full-Stack Blockchain Developer with expertise in DeFi, smart contracts, and web development.
 
 ## Contact
-- 📍 Boston, MA
 - 📧 [rakshithvk19@gmail.com](mailto:rakshithvk19@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rakshith-rajkumar/)
-- 💻 [GitHub](https://github.com/rakshithvk19)
-
-## Education
-- **Northeastern University, Boston, MA**  
-  Master of Science in Information Systems  
-  Aug 2023 – Dec 2025
-
-- **NMAM Institute of Technology, India**  
-  Bachelor of Engineering in Electronics and Communication Engineering  
-  Aug 2017 – Aug 2021
 
 ## Work Experience
 - **Full-Stack Blockchain Developer Intern, Aurkei, Remote, United States**  
@@ -36,14 +25,14 @@ Hi there! I'm a Full-Stack Blockchain Developer with expertise in DeFi, smart co
 ## Projects
 Check out my key projects on [GitHub](https://github.com/rakshithvk19?tab=repositories):
 
-- **[RugGuard](https://github.com/rakshithvk19/RugGuard)**  
-  Uniswap v4 hook for rug pull protection with withdrawal limits and risk scoring. (Sep 2024)
-
 - **[RAX FTP Server](https://github.com/rakshithvk19/rax-ftp-server)**  
   RFC 959-compliant FTP server in Rust with 12+ commands. (Aug 2025)
 
 - **[RAX FTP Client](https://github.com/rakshithvk19/rax-ftp-client)**  
   Interactive FTP client with real-time progress tracking. (Aug 2025)
+  
+- **[RugGuard](https://github.com/rakshithvk19/RugGuard)**  
+  Uniswap v4 hook for rug pull protection with withdrawal limits and risk scoring. (Sep 2024)
 
 - **[Limit-orders-hook](https://github.com/rakshithvk19/Limit-orders-hook)**  
   Take Profit hook for Uniswap V4.  
@@ -62,6 +51,15 @@ I share insights on blockchain and tech on [LinkedIn](https://www.linkedin.com/i
 
 - [Unveiling the Power of Merkle Trees](https://www.linkedin.com/pulse/understanding-merkle-trees-rakshith-rajkumar-inq3f) (Feb 2024)  
   Exploring Merkle Trees for data integrity in blockchain.
+
+## Education
+- **Northeastern University, Boston, MA**  
+  Master of Science in Information Systems  
+  Aug 2023 – Dec 2025
+
+- **NMAM Institute of Technology, India**  
+  Bachelor of Engineering in Electronics and Communication Engineering  
+  Aug 2017 – Aug 2021
 
 ## Last Updated
 September 23, 2025

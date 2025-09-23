@@ -49,8 +49,44 @@ Check out my key projects on [GitHub](https://github.com/rakshithvk19?tab=reposi
 ## Blog Posts
 I share insights on blockchain and tech on [LinkedIn](https://www.linkedin.com/in/rakshith-rajkumar/):
 
-- [Unveiling the Power of Merkle Trees](https://www.linkedin.com/pulse/understanding-merkle-trees-rakshith-rajkumar-inq3f) (Feb 2024)  
+- [Understanding Leader Election in RAFT consensus mechanism](https://www.linkedin.com/posts/activity-7319498884857167872-uaKZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (Apr 19, 2025)  
+  Exploring the RAFT consensus mechanism's leader election process.
+
+- [Understanding literals in Rust](https://www.linkedin.com/posts/activity-7261577128763179008-QAP4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (Nov 10, 2024)  
+  A deep dive into Rust's literal types and usage.
+
+- [Pyth Network: A case study](https://www.linkedin.com/posts/activity-7201974619761754112--O4X?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (May 30, 2024)  
+  Analyzing the Pyth Network's architecture and applications.
+
+- [Solidity Timelocks for Dummies](https://www.linkedin.com/posts/activity-7191262560547930112-Nu6O?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (Apr 30, 2024)  
+  Simplifying the concept of timelocks in Solidity.
+
+- [Understanding Merkle Trees](https://www.linkedin.com/posts/activity-7158655211429871617-PG4Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (Jan 31, 2024)  
   Exploring Merkle Trees for data integrity in blockchain.
+
+- [Role of Miners in Blockchain Networks](https://www.linkedin.com/posts/activity-7157568037200498689-ep5K?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (Jan 28, 2024)  
+  Understanding the critical role of miners in blockchain.
+
+- [How is a transaction executed in Proof-of-Stake blockchains?](https://www.linkedin.com/posts/activity-7156494797858291712-jgoB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (Jan 25, 2024)  
+  Breaking down transaction execution in PoS blockchains.
+
+- [Understanding Proof-of-Stake](https://www.linkedin.com/posts/activity-7156118485088030720-HuEt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (Jan 24, 2024)  
+  An overview of the Proof-of-Stake consensus mechanism.
+
+- [What are validators?](https://www.linkedin.com/posts/activity-7155756097889341440-_RjA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (Jan 23, 2024)  
+  Explaining the role of validators in blockchain networks.
+
+- [Understanding Consensus mechanisms](https://www.linkedin.com/posts/activity-7155393709260369920-mz5F?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxAe0UBRXwLeLjROl_CEhpWrR3iZvumhxo) (Jan 22, 2024)  
+  A guide to various consensus mechanisms in blockchain.
+
+- [What are nodes?](https://www.linkedin.com/pulse/what-nodes-rakshith-rajkumar-9erhe/?trackingId=n32abaU2SKOTNNk%2Fqh8n0w%3D%3D) (Jan 21, 2024)  
+  Exploring the function of nodes in blockchain networks.
+
+- [Understanding gas and gas fees](https://www.linkedin.com/pulse/understanding-gas-fees-rakshith-rajkumar-2vhfe/?trackingId=aBkELBCuR6WZ3gbwCxFNeg%3D%3D) (Jan 18, 2024)  
+  A beginner’s guide to gas and gas fees on Ethereum.
+
+- [What are transactions?](https://www.linkedin.com/pulse/what-transactions-rakshith-rajkumar-dijje/?trackingId=IEalcONGQrepmoBuMeMSrQ%3D%3D) (Jan 17, 2024)  
+  An introduction to blockchain transactions.
 
 ## Education
 - **Northeastern University, Boston, MA**  

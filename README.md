@@ -31,7 +31,7 @@ Check out my key projects on [GitHub](https://github.com/rakshithvk19?tab=reposi
 - **[RAX FTP Client](https://github.com/rakshithvk19/rax-ftp-client)**  
   Interactive FTP client with real-time progress tracking. (Aug 2025)
   
-- **[RugGuard](https://github.com/rakshithvk19/RugGuard)**  
+- **[RugGuard](https://github.com/0xPotatoofdoom/v4-hooks-template/tree/rugguard)**  
   Uniswap v4 hook for rug pull protection with withdrawal limits and risk scoring. (Sep 2024)
 
 - **[Limit-orders-hook](https://github.com/rakshithvk19/Limit-orders-hook)**  
@@ -98,4 +98,4 @@ I share insights on blockchain and tech on [LinkedIn](https://www.linkedin.com/i
   Aug 2017 – Aug 2021
 
 ## Last Updated
-September 23, 2025
+September 30, 2025

@@ -25,6 +25,9 @@ Hi there! I'm a Full-Stack Blockchain Developer with expertise in DeFi, smart co
 ## Projects
 Check out my key projects on [GitHub](https://github.com/rakshithvk19?tab=repositories):
 
+- **[Cross VM Rock Paper Scissors](https://github.com/rakshithvk19/Cross-VM-Rock-Paper-Scissors)** [Live Demo](https://rakshithvk19.github.io/Cross-VM-Rock-Paper-Scissors/)
+  A simple Rock Paper Scissors game built on Fluent VM. (Sept 2025)
+
 - **[RAX FTP Server](https://github.com/rakshithvk19/rax-ftp-server)**  
   RFC 959-compliant FTP server in Rust with 12+ commands. (Aug 2025)
 
